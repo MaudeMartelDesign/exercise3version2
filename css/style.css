@@ -12,3 +12,11 @@ header{
 main footer{
     border: 2px black;
 }
+
+main{
+    background-color: cadetblue;
+}
+
+footer{
+    background-color: coral;
+}
